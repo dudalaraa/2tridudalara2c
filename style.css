@@ -1,0 +1,23 @@
+
+body{ 
+    background-color: rgb(245, 190, 220);
+
+}
+
+h1{ 
+    background-color: rgb(194, 66, 145);
+    border-radius: 15cm;
+    background-position: 5cm;
+}
+h4{ 
+    background-color: rgb(255, 188, 229);
+    color: rgb(240, 151, 188);
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 25px;
+}
+header{background-color: var(--cor-do-titulo); }
+h1{ 
+    text-align: center;
+    color: aliceblue;
+    text-decoration: underline;}
